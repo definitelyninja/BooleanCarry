@@ -1,0 +1,10 @@
+name = "BooleanCarry"
+version = "0.1.0"
+defaultTargets = ["booleancarry"]
+
+[[lean_lib]]
+name = "BooleanCarry"
+
+[[lean_exe]]
+name = "booleancarry"
+root = "Main"
